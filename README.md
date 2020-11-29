@@ -88,8 +88,33 @@
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-books-2.png)
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-books-3.png)
 
-### Serverless Architecture
 ### Microkernel Architecture
+
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-def-1.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-def-2.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-def-3.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-why.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-components.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-components-core.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-components-internal-servers.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-components-external-servers.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-components-client.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-in-action.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-examples-1.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-examples-2.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-examples-3.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-examples-4.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-examples-5.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-pros.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-cons.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-considerations-1.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-considerations-2.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-considerations-3.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-considerations-4.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-book.png)
+
+### Serverless Architecture
 ### Domain Driven Architecture
 ### Event Driven Architecture
 
