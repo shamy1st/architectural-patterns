@@ -19,6 +19,10 @@
 
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/architectural-vs-design-patterns.png)
 
+### Books
+
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/software-architecture-books.png)
+
 ### Types
 
 * Multi Tiered Architecture
