@@ -23,12 +23,17 @@
 
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/software-architecture-books.png)
 
-### Types
 
-* Multi Tiered Architecture
-* Client - Server Architecture
-* Model - View - Controller Architecture
-* Service Oriented Architecture
-* Microservices Architecture
-* Domain Driven Architecture
-* Event Driven Architecture
+### Layered / n-Tier / Multi Tiered Architectural pattern
+
+
+
+### Client - Server Architecture
+### Model - View - Controller Architecture
+### Service Oriented Architecture
+### Microservices Architecture
+### Domain Driven Architecture
+### Event Driven Architecture
+
+### Ref
+* https://www.youtube.com/playlist?list=PLSyLGd0D0b4ThfElztKEueqQ5SIHJjUEU
