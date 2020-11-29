@@ -57,6 +57,37 @@
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-resources.png)
 
 ### Service Oriented Architecture (SOA)
+
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-def-1.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-def-2.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-def-3.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-components.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-components-service-1.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-components-service-2.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-components-service-3.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-components-service-4.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-components-esb-1.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-components-esb-2.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-components-sdr.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-components-consumer.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-components-api-gateway.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-principles.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-implementations.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-implementations-enterprise-service-bus.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-implementations-business-process-management.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-implementations-service-oriented-integration.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-design-patterns.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-pros.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-cons.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-and-cloud-1.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-and-cloud-2.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-considerations.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-problems.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-books-1.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-books-2.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-books-3.png)
+
 ### Serverless Architecture
 ### Microkernel Architecture
 ### Domain Driven Architecture
