@@ -33,10 +33,32 @@
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/layered-plan.png)
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/layered-pros-cons.png)
 
-### Client - Server Architecture
-### Model - View - Controller Architecture
-### Service Oriented Architecture
 ### Microservices Architecture
+
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-service-1.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-service-2.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-service-3.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-topologies.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-rest-api.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-rest-application.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-centralized-messaging.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-pros.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-cons.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-plan.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-problem-1.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-problem-2.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-problem-3.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-problem-4.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-problem-5.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-books-1.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-books-2.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-books-3.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-resources.png)
+
+### Service Oriented Architecture (SOA)
+### Serverless Architecture
+### Microkernel Architecture
 ### Domain Driven Architecture
 ### Event Driven Architecture
 
