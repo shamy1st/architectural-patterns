@@ -23,7 +23,6 @@
 
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/software-architecture-books.png)
 
-
 ### Layered / N-Tier / Multi Tiered Architectural pattern
 
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/layered.png)
@@ -115,6 +114,16 @@
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-book.png)
 
 ### Serverless Architecture
+
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/serverless-def-1.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/serverless-def-2.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/serverless-def-3.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/serverless-considerations.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/serverless-in-action.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/serverless-pros-cons.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/serverless-examples.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/serverless-benefits.png)
+
 ### Domain Driven Architecture
 ### Event Driven Architecture
 
