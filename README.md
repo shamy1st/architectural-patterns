@@ -124,8 +124,9 @@
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/serverless-examples.png)
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/serverless-benefits.png)
 
-### Domain Driven Architecture
 ### Event Driven Architecture
+
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/event-driven.png)
 
 ### Ref
 * https://www.youtube.com/playlist?list=PLSyLGd0D0b4ThfElztKEueqQ5SIHJjUEU
