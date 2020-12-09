@@ -1,6 +1,6 @@
 # Architectural Patterns
 
-### Introduction
+## Introduction
 
 **Software Architecture**: is
   * how components of a system are **organized and assembled**.
@@ -23,7 +23,7 @@
 
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/software-architecture-books.png)
 
-### Layered / N-Tier / Multi Tiered Architectural Pattern
+## Layered / N-Tier / Multi Tiered Architectural Pattern
 
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/layered.png)
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/layered-layer.png)
@@ -32,7 +32,7 @@
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/layered-plan)
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/layered-pros-cons.png)
 
-### Microservices Architectural Pattern
+## Microservices Architectural Pattern
 
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices.png)
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-service-1.png)
@@ -55,7 +55,7 @@
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-books-3.png)
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-resources.png)
 
-### Service Oriented Architecture (SOA)
+## Service Oriented Architecture (SOA)
 
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa.png)
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-def-1)
@@ -87,7 +87,7 @@
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-books-2.png)
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-books-3.png)
 
-### Microkernel Architectural Pattern
+## Microkernel Architectural Pattern
 
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel.png)
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-def-1.png)
@@ -113,7 +113,7 @@
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-considerations-4.png)
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-book.png)
 
-### Serverless Architecture
+## Serverless Architecture
 
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/serverless-def-1.png)
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/serverless-def-2.png)
@@ -124,5 +124,5 @@
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/serverless-examples.png)
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/serverless-benefits.png)
 
-### Ref
+## Ref
 * https://www.youtube.com/playlist?list=PLSyLGd0D0b4ThfElztKEueqQ5SIHJjUEU
