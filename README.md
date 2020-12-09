@@ -58,8 +58,8 @@
 ### Service Oriented Architecture (SOA)
 
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa.png)
-![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-def-1.png)
-![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-def-2.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-def-1)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-def-2)
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-def-3.png)
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-components.png)
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-components-service-1.png)
