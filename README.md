@@ -3,7 +3,7 @@
 ### Introduction
 
 **Software Architecture**: is
-  * how the defining components of a system are **organized and assembled**.
+  * how components of a system are **organized and assembled**.
   * how they communicate with each others.
   * and the constraints the whole system is roled by.
 
