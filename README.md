@@ -12,8 +12,8 @@
 
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/software-process)
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/architecture-vs-development.png)
-![](https://github.com/shamy1st/architectural-patterns/blob/main/images/software-architecture.png)
-![](https://github.com/shamy1st/architectural-patterns/blob/main/images/architecture-types.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/software-architecture)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/architecture-types)
 
 ### Architectural Pattern vs Design Pattern
 
@@ -23,7 +23,7 @@
 
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/software-architecture-books.png)
 
-### Layered / N-Tier / Multi Tiered Architectural pattern
+### Layered / N-Tier / Multi Tiered Architectural Pattern
 
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/layered.png)
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/layered-layer.png)
@@ -32,7 +32,7 @@
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/layered-plan.png)
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/layered-pros-cons.png)
 
-### Microservices Architecture
+### Microservices Architectural Pattern
 
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices.png)
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-service-1.png)
@@ -87,7 +87,7 @@
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-books-2.png)
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-books-3.png)
 
-### Microkernel Architecture
+### Microkernel Architectural Pattern
 
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel.png)
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-def-1.png)
