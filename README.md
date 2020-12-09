@@ -36,8 +36,8 @@
 
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices.png)
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-service-1.png)
-![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-service-2.png)
-![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-service-3.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-service-2)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-service-3)
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-topologies.png)
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-rest-api.png)
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-rest-application.png)
