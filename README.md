@@ -1,7 +1,5 @@
 # Architectural Patterns
 
-## Introduction
-
 **Software Architecture**: is
   * how components of a system are **organized and assembled**.
   * how they communicate with each others.
@@ -19,9 +17,7 @@
 
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/architectural-vs-design-patterns.png)
 
-### Books
-
-![](https://github.com/shamy1st/architectural-patterns/blob/main/images/software-architecture-books.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/software-architecture-books)
 
 ## Layered / N-Tier / Multi Tiered Architectural Pattern
 
@@ -50,10 +46,10 @@
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-problem-3)
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-problem-4)
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-problem-5)
-![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-books-1.png)
-![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-books-2.png)
-![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-books-3.png)
-![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-resources.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-books-1)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-books-2)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-books-3)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microservices-resources)
 
 ## Service Oriented Architecture (SOA)
 
@@ -83,9 +79,9 @@
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-and-cloud-2)
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-considerations)
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-problems)
-![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-books-1.png)
-![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-books-2.png)
-![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-books-3.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-books-1)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-books-2)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/soa-books-3)
 
 ## Microkernel Architectural Pattern
 
@@ -111,7 +107,7 @@
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-considerations-2.png)
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-considerations-3.png)
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-considerations-4.png)
-![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-book.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-book)
 
 ## Serverless Architecture
 
