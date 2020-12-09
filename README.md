@@ -103,10 +103,10 @@
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-examples-5.png)
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-pros.png)
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-cons.png)
-![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-considerations-1.png)
-![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-considerations-2.png)
-![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-considerations-3.png)
-![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-considerations-4.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-considerations-1)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-considerations-2)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-considerations-3)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-considerations-4)
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-book)
 
 ## Serverless Architecture
