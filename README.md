@@ -1,8 +1,6 @@
 # Architectural Patterns
 
-**Software Architecture**: is
-  * how components of a system are organized, and how they communicate with each others.
-  * constraints ruled the system.
+**Software Architecture**: how components of a system are organized and communicate with constraints ruled the system.
 
 **Architectural Pattern**: is the overall structure of the system, how big or small the component should be.
 
