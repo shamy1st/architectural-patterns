@@ -1,12 +1,10 @@
 # Architectural Patterns
 
 **Software Architecture**: is
-  * how components of a system are **organized and assembled**.
-  * how they communicate with each others.
-  * and the constraints the whole system is roled by.
+  * how components of a system are organized, and how they communicate with each others.
+  * constraints ruled the system.
 
-**Architectural Pattern**: is the overall structure of the system, define the **granularity** of the components.
-  * **granularity**: is how big or small the component should be.
+**Architectural Pattern**: is the overall structure of the system, how big or small the component should be.
 
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/software-process)
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/architecture-vs-development.png)
