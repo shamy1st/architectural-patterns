@@ -4,11 +4,11 @@
 
 **Architectural Pattern**: is the overall structure of the system, how big or small the component should be.
 
-* [Layered / N-Tier / Multi Tiered Architectural Pattern](https://github.com/shamy1st/architectural-pattern-layered)
-* [Microservices Architectural Pattern](https://github.com/shamy1st/architectural-pattern-microservices)
+* [Layered / N-Tier / Multi Tiered](https://github.com/shamy1st/architectural-pattern-layered)
+* [Microservices](https://github.com/shamy1st/architectural-pattern-microservices)
 * [Service Oriented Architecture (SOA)](https://github.com/shamy1st/architectural-pattern-soa)
-* [Microkernel Architectural Pattern](https://github.com/shamy1st/architectural-pattern-microkernel)
-* [Serverless Architecture](https://github.com/shamy1st/architectural-pattern-serverless)
+* [Microkernel](https://github.com/shamy1st/architectural-pattern-microkernel)
+* [Serverless](https://github.com/shamy1st/architectural-pattern-serverless)
 
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/software-process)
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/architecture-vs-development.png)
