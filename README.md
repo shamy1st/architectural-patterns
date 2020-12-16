@@ -16,7 +16,6 @@
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/architecture-types)
 
 ### Architectural Pattern vs Design Pattern
-
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/architectural-vs-design-patterns.png)
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/software-architecture-books)
 
