@@ -9,6 +9,7 @@
 * [Service Oriented Architecture (SOA)](https://github.com/shamy1st/architectural-pattern-soa)
 * [Microkernel](https://github.com/shamy1st/architectural-pattern-microkernel)
 * [Serverless](https://github.com/shamy1st/architectural-pattern-serverless)
+* [Event-Driven Architecture](https://github.com/shamy1st/architectural-pattern-event-driven)
 
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/software-process)
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/architecture-vs-development.png)
