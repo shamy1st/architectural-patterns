@@ -11,9 +11,9 @@
 * [Serverless](https://github.com/shamy1st/architectural-pattern-serverless)
 * [Event-Driven Architecture](https://github.com/shamy1st/architectural-pattern-event-driven)
 
-![](https://github.com/shamy1st/architectural-patterns/blob/main/images/software-process)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/software-process.png)
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/architecture-vs-development.png)
-![](https://github.com/shamy1st/architectural-patterns/blob/main/images/software-architecture)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/software-architecture.png)
 ![](https://github.com/shamy1st/architectural-patterns/blob/main/images/architecture-types)
 
 ### Architectural Pattern vs Design Pattern
